@@ -1,5 +1,7 @@
 # Recorder.js
 
+## This fork of RecorderJS supports down sampling to a sample rate of 16000.
+
 ## A plugin for recording/exporting the output of Web Audio API nodes
 
 ### Syntax
